@@ -1,0 +1,9 @@
+Package: com.eldwin.PageHolder
+Name: PageHolder
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Allows blank pages to be inserted between any pages on SpringBoard.
+Maintainer: eldwin 
+Author: eldwin 
+Section: Tweaks

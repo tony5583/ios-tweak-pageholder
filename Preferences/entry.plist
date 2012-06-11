@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = PageHolder;
+		cell = PSLinkCell;
+		detail = "PHPreferencesViewController";
+		icon = "Icon.png";
+		isController = 1;
+		label = PageHolder;
+	};
+}
